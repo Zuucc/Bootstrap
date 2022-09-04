@@ -1,0 +1,18 @@
+.card {
+    min-height: 150px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    /* border: black; */
+}
+
+.text-muted {
+    --bs-text-opacity: 1;
+    color: black !important;;
+}
+
+.card:hover {
+    /* background-color: rgb(118, 193, 254); */
+    background-image: linear-gradient(skyblue, cyan);
+}
+
+  
